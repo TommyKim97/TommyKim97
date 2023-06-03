@@ -2,7 +2,7 @@
 
 ## Hi, I'm Soyoung Kim 👋
 
-I'm a Junior Front-end developer living in Seoul, South Korea 😄
+I'm a Junior Front-end developer living in South Korea 😄
   <br/>
 Hope you have a great day ☘️
   <br/>
